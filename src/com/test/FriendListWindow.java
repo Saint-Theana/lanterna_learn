@@ -16,7 +16,7 @@ public class FriendListWindow extends BasicWindow
 		this.table= new Table<String>("1","2");
 		
 		this.table.getTableModel().addRow("1ghvyvuvyvghyvvvvgv", "2");
-		this.table.getTableModel().addRow("啊他头部居然有人不1", "2");
+		this.table.getTableModel().addRow("ur`udvduc`uc`cucbcihfufhfhjduf`dudhudhh", "2");
 		this.table.getTableModel().addRow("1", "2");
 		
 		
