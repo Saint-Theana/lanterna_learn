@@ -1,0 +1,6 @@
+/sdcard/AppProjects/MyJavaConsoleApp/src/com/test/ChatWindow.java
+/sdcard/AppProjects/MyJavaConsoleApp/src/com/test/FriendListWindow.java
+/sdcard/AppProjects/MyJavaConsoleApp/src/com/test/GroupListWindow.java
+/sdcard/AppProjects/MyJavaConsoleApp/src/com/test/LogOutPutWindow.java
+/sdcard/AppProjects/MyJavaConsoleApp/src/com/test/LoginWindow.java
+/sdcard/AppProjects/MyJavaConsoleApp/src/com/test/Main.java
